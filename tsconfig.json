@@ -11,7 +11,6 @@
       "emitDecoratorMetadata": true,
       "experimentalDecorators": true,
       "sourceMap": true,
-      "strict": true,   
       "esModuleInterop": true,
       "skipLibCheck": true,                           /* Skip type checking of declaration files. */
       "forceConsistentCasingInFileNames": true   
